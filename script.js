@@ -73,10 +73,21 @@ const homeworks = [
     ["#b3563b", "Обществознание", ""],
 ]
 
+let aTarget = ""
+
+if (
+    navigator.userAgent.includes('Android') ||
+    navigator.userAgent.includes('iPhone')  ||
+    navigator.userAgent.includes('iPad')
+) {
+    aTarget = ""
+} else {
+    aTarget = `target="_blank"`
+}
 
 const htmlList = document.querySelector("ul")
 for(let i = 0; i < homeworks.length; i++) {
-    htmlList.innerHTML += `<li><a href="${homeworks[i][2]}" style="color:${homeworks[i][0]}">${homeworks[i][1]}</a></li>`;
+    htmlList.innerHTML += `<li><a href="${homeworks[i][2]}" style="color:${homeworks[i][0]}" ${aTarget}>${homeworks[i][1]}</a></li>`;
 }
 
 // Color
