@@ -76,7 +76,7 @@ const homeworks = [
 
 const htmlList = document.querySelector("ul")
 for(let i = 0; i < homeworks.length; i++) {
-    htmlList.innerHTML += `<li><a href="${homeworks[i][2]}" style="color:${homeworks[i][0]}" target="_blank">${homeworks[i][1]}</a></li>`;
+    htmlList.innerHTML += `<li><a href="${homeworks[i][2]}" style="color:${homeworks[i][0]}">${homeworks[i][1]}</a></li>`;
 }
 
 // Color
