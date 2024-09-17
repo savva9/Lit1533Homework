@@ -66,7 +66,7 @@ const homeworks = [
     ["#61eeb3", "ВиС", "https://in.lit.msu.ru/Ulysses/2024-2025/7/56/5921/"],
     ["#950dd5", "ОПП", "https://classroom.google.com/u/2/c/NTQ1ODE4MTYzMjI1"],
     ["#378c93", "Информатика", "https://classroom.google.com/u/2/c/NzA5NzcwNTgxNjA0"],
-    ["#0428b4", "Технология", "https://in.lit.msu.ru/Ulysses/2024-2025/7/35/6616/"],
+    ["#0428b4", "Технология", "https://classroom.google.com/u/2/c/NzEzNDY1NTEyNTU3"],
     ["#c993d2", "Музыка", "https://in.lit.msu.ru/Ulysses/2024-2025/7/27/1858/"],
     ["#9c5399", "ИЗО", ""],
     ["#915436", "История", ""],
