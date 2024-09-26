@@ -62,7 +62,7 @@ const homeworks = [
     ["#fa760a", "Геометрия", "https://in.lit.msu.ru/Ulysses/2024-2025/7/4/6126/"],
     ["#08531f", "География", "https://in.lit.msu.ru/Ulysses/2024-2025/7/13/98/"],
     ["#3b3e8f", "Физика", "https://in.lit.msu.ru/Ulysses/2024-2025/7/17/118/"],
-    ["#717717", "Биология", ""],
+    ["#717717", "Биология", "https://in.lit.msu.ru/Ulysses/2024-2025/7/28/64/"],
     ["#61eeb3", "ВиС", "https://in.lit.msu.ru/Ulysses/2024-2025/7/56/5921/"],
     ["#950dd5", "ОПП", "https://classroom.google.com/u/2/c/NTQ1ODE4MTYzMjI1"],
     ["#378c93", "Информатика", "https://classroom.google.com/u/2/c/NzA5NzcwNTgxNjA0"],
