@@ -64,16 +64,15 @@ const homeworks = [
     ["#e4a716", "Русский язык", "https://in.lit.msu.ru/Ulysses/2025-2026/8/3/5450/"],
     ["#f22007", "Английский язык", "https://in.lit.msu.ru/Ulysses/2025-2026/8/19/79/"],
     ["#08531f", "География", "https://in.lit.msu.ru/Ulysses/2025-2026/8/13/2396/"],
-    ["#3b3e8f", "Физика", "https://school.mos.ru/diary/homeworks/homeworks"],
+    ["#3b3e8f", "Физика", "https://in.lit.msu.ru/Ulysses/2025-2026/8/17/118/"],
     ["#717717", "Биология", "https://in.lit.msu.ru/Ulysses/2025-2026/8/28/64/"],
     ["#61eeb3", "ВиС", ""],
-    ["#950dd5", "ОПП", "https://classroom.google.com/u/2/c/NTQ1ODE4MTYzMjI1"],
-    ["#378c93", "Информатика", "https://classroom.google.com/u/2/c/NzA5NzcwNTgxNjA0"],
+    ["#950dd5", "ОПП", "https://in.lit.msu.ru/Ulysses/2025-2026/8/58/118/"],
+    ["#378c93", "Информатика", "https://in.lit.msu.ru/Ulysses/2025-2026/8/16/118/"],
     ["#0428b4", "Технология", "https://in.lit.msu.ru/Ulysses/2025-2026/8/35/6124/"],
     ["#c993d2", "Химия", "https://in.lit.msu.ru/Ulysses/2025-2026/8/24/96/"],
     ["#915436", "История", "https://school.mos.ru/diary/homeworks/homeworks"],
     ["#b3563b", "Обществознание", "https://school.mos.ru/diary/homeworks/homeworks"],
-    // ["#54d4cbff", "ОБЗР", ""],
 ]
 
 let aTarget = ""
@@ -129,3 +128,4 @@ function updateTime(){
 updateTime()
 
 setInterval(updateTime, 1000);
+
