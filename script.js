@@ -67,12 +67,12 @@ const homeworks = [
     ["#08531f", "География", "https://in.lit.msu.ru/Ulysses/2025-2026/8/13/2396/"],
     ["#3b3e8f", "Физика", "https://in.lit.msu.ru/Ulysses/2025-2026/8/17/118/"],
     ["#717717", "Биология", "https://in.lit.msu.ru/Ulysses/2025-2026/8/28/64/"],
-    ["#61eeb3", "ВиС", ""],
+    ["#61eeb3", "ВиС", "https://in.lit.msu.ru/Ulysses/2025-2026/8/56/5921/"],
     ["#950dd5", "ОПП", "https://in.lit.msu.ru/Ulysses/2025-2026/8/58/118/"],
     ["#378c93", "Информатика", "https://in.lit.msu.ru/Ulysses/2025-2026/8/16/118/"],
     ["#0428b4", "Технология", "https://in.lit.msu.ru/Ulysses/2025-2026/8/35/6124/"],
     ["#c993d2", "Химия", "https://in.lit.msu.ru/Ulysses/2025-2026/8/24/96/"],
-    ["#915436", "История", "https://school.mos.ru/diary/homeworks/homeworks"],
+    ["#915436", "История", "https://in.lit.msu.ru/Ulysses/2025-2026/8/2/1806/"],
     ["#b3563b", "Обществознание", "https://school.mos.ru/diary/homeworks/homeworks"],
 ]
 
@@ -129,5 +129,6 @@ function updateTime(){
 updateTime()
 
 setInterval(updateTime, 1000);
+
 
 
