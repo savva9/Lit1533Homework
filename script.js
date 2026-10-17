@@ -90,7 +90,7 @@ const homeworks = [
     { name: "Программирование", color: "#950dd5", link: "https://classroom.google.com/u/3/c/ODc3NTk2Njc1NDY5" },
     { name: "Русский язык", color: "#e4a716", link: "https://in.lit.msu.ru/Ulysses/2026-2027/9/3/71/" },
     { name: "ТВиС", color: "#61eeb3", link: "https://in.lit.msu.ru/Ulysses/2026-2027/9/56/6126/" },
-    { name: "Технология", color: "#0428b4", link: "https://in.lit.msu.ru/Ulysses/2026-2027/9/35/6616/" },
+    { name: "Технология", color: "#0428b4", link: "https://classroom.google.com/u/3/c/ODc2ODUwMzk3ODI1" },
     { name: "Физика", color: "#3b3e8f", link: "https://in.lit.msu.ru/Ulysses/2026-2027/9/17/57/" },
     { name: "Химия", color: "#c993d2", link: "https://in.lit.msu.ru/Ulysses/2026-2027/9/24/7/" },
 ];
